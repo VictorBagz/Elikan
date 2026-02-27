@@ -7,7 +7,7 @@ const locations = [
     address: "Kampala City, Uganda",
     hours: "Mon - Sat: 8:00am - 9:00pm",
     phone: "0778684463",
-    image: "https://images.unsplash.com/photo-1554118811-1e0d58224f24?q=80&w=2047&auto=format&fit=crop"
+    image: "/images/whatsapp1.jpg"
   }
 ];
 

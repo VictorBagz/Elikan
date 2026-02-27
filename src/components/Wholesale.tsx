@@ -75,13 +75,13 @@ export default function Wholesale() {
           >
             <div className="space-y-4">
               <img
-                src="https://images.unsplash.com/photo-1555507036-ab1f4038808a?q=80&w=1926&auto=format&fit=crop"
+                src="/images/elikan5.jpg"
                 alt="Bakery wholesale 1"
                 className="w-full h-64 object-cover rounded-3xl shadow-lg"
                 referrerPolicy="no-referrer"
               />
               <img
-                src="https://images.unsplash.com/photo-1509440159596-0249088772ff?q=80&w=2072&auto=format&fit=crop"
+                src="/images/elikan6.jpg"
                 alt="Bakery wholesale 2"
                 className="w-full h-80 object-cover rounded-3xl shadow-lg"
                 referrerPolicy="no-referrer"
@@ -89,13 +89,13 @@ export default function Wholesale() {
             </div>
             <div className="space-y-4 pt-8">
               <img
-                src="https://images.unsplash.com/photo-1585478259715-876acc5be8eb?q=80&w=2070&auto=format&fit=crop"
+                src="/images/elikan7.webp"
                 alt="Bakery wholesale 3"
                 className="w-full h-80 object-cover rounded-3xl shadow-lg"
                 referrerPolicy="no-referrer"
               />
               <img
-                src="https://images.unsplash.com/photo-1499636136210-6f4ee915583e?q=80&w=1964&auto=format&fit=crop"
+                src="/images/elikan9.jpeg"
                 alt="Bakery wholesale 4"
                 className="w-full h-64 object-cover rounded-3xl shadow-lg"
                 referrerPolicy="no-referrer"

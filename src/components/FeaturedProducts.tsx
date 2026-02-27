@@ -8,7 +8,7 @@ const products = [
     name: "Classic Chocolate Chip Cookies",
     price: "UGX 5,000",
     description: "Soft, chewy, and loaded with premium chocolate chips. A Kampala favorite.",
-    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?q=80&w=1964&auto=format&fit=crop",
+    image: "/images/elikan1.jpg",
     badge: "BEST SELLER",
     ingredients: ["Wheat Flour", "Chocolate Chips", "Butter", "Sugar", "Eggs", "Vanilla"]
   },
@@ -17,7 +17,7 @@ const products = [
     name: "Red Velvet Celebration Cake",
     price: "UGX 45,000",
     description: "Rich, moist red velvet layers with smooth cream cheese frosting. Perfect for birthdays.",
-    image: "https://images.unsplash.com/photo-1586788680434-30d324671ff6?q=80&w=1974&auto=format&fit=crop",
+    image: "/images/elikan2.jpg",
     badge: "POPULAR",
     ingredients: ["Cocoa Powder", "Buttermilk", "Flour", "Cream Cheese", "Sugar", "Butter"]
   },
@@ -26,7 +26,7 @@ const products = [
     name: "Blueberry Morning Muffins",
     price: "UGX 4,000",
     description: "Bursting with fresh blueberries and topped with a light sugar crumble.",
-    image: "https://images.unsplash.com/photo-1558303420-f814d8a590f5?q=80&w=1965&auto=format&fit=crop",
+    image: "/images/elikan3.jpg",
     badge: "FRESHLY BAKED",
     ingredients: ["Blueberries", "Flour", "Milk", "Sugar", "Baking Powder", "Eggs"]
   },
@@ -35,7 +35,7 @@ const products = [
     name: "Belgian Style Waffles",
     price: "UGX 12,000",
     description: "Crispy on the outside, fluffy on the inside. Served with syrup and fresh fruit.",
-    image: "https://images.unsplash.com/photo-1562376552-0d160a2f238d?q=80&w=1925&auto=format&fit=crop",
+    image: "/images/elikan4.jpg",
     badge: "NEW",
     ingredients: ["Flour", "Yeast", "Milk", "Butter", "Pearl Sugar", "Eggs"]
   }
